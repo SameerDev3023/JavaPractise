@@ -1,6 +1,6 @@
 public class Operators {
     
-    public static void main(String[] args){
+    public static void main(Strings[] args){
         // =============== JAVA OPERATORS =======
 
         // JAVA OPERATORS ARE USED TO PERFORM OPERATIONS ON VARIABLES AND THEIR VALUES.
